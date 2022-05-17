@@ -13,3 +13,4 @@ This was an assignment from Dr. Xue Guo's Advanced Business Analytics course at 
 4.) Overall, which method(RF vs. SVM) performs better?
 
 The results and analysis for each model are in the "Boston Housing Market Predictive Model Results" file.
+The R script for each model are in the "Boston Housing R Script" file.
